@@ -724,7 +724,7 @@ semilla y reporta las primeras 10 simulaciones.
 d) Realiza 10,000 simulaciones usando cada uno de los algoritmos y compara el 
 tiempo de ejecución.
 
-e) Genera un histogrma para cada algoritmo (usa 1000 simulaciones) y comparalo 
+e) Genera un histograma para cada algoritmo (usa 1000 simulaciones) y comparalo 
 con la distribución construida usando la función de R _dnbinom_.
 
 ***
