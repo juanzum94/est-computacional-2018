@@ -1046,7 +1046,7 @@ x <- runifD(n = 1000, k = 20)
 qplot(x, binwidth = 1)
 ```
 
-También podmeos usar la función sample de R:
+También podemos usar la función sample de R:
 
 ```{r, fig.height=4, fig.width=4, out.width="300px"}
 qplot(sample(1:20, size = 1000, replace= TRUE), binwidth = 1)
