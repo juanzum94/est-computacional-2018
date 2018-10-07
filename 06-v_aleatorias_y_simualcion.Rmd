@@ -40,7 +40,7 @@ en el intervalo $(0, 1)$.
 
 1. **Verdaderos números aleatorios. **Los números completamente aleatorios (no 
     determinísticos) son fáciles de imaginar  conceptualmente, por ejemplo 
-    podemos imaginar lanzar una moneda, lanzar un dadoo una lotería.  
+    podemos imaginar lanzar una moneda, lanzar un dado una lotería.  
     En general los números aleatorios se basan en alguna fuente de aleatoreidad 
     física que puede ser teóricamente impredecible (cuántica) o prácticamente
     impredecible (caótica). Por ejemplo:
